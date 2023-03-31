@@ -1,6 +1,6 @@
 # Game Contracts
 
-This contains the smart contracts of the games built by ScrapBoxGames.
+This contains the smart contracts of nft where attributes are on chain using svg.
 
 ## Prerequisites
 - NodeJS
@@ -14,9 +14,3 @@ This contains the smart contracts of the games built by ScrapBoxGames.
   `pip3 install solc-select`
   `solc-select install 0.8.11`
   `solc-select use 0.8.11`
-
-# NUTS Token
-This contract is used to create the ScrapBox NUTS Token with a maximum supply of 1 Trillion tokens.
-
-# ScrapBoard
-This contract is a test contract to support the ScrapBoard Game.
